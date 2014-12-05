@@ -15,4 +15,6 @@ Include in your html :
 In your angular application import "kc-angular-numeric" module
 
 Usage : 
+```html
 <input type=text" numeric-field="">
+```
