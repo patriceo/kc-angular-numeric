@@ -8,8 +8,8 @@ Installation :
 
 Include in your html :
 
-1/ jquery numeric js source  (see http://www.texotela.co.uk/code/jquery/numeric/)
-2/ kc-angular-numeric.js
-3/ angularJs
+1. jquery numeric js source  (see http://www.texotela.co.uk/code/jquery/numeric/)
+2. kc-angular-numeric.js
+3. angularJs
 
 In your angular application import "kc-angular-numeric" module
