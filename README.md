@@ -13,3 +13,6 @@ Include in your html :
 3. angularJs
 
 In your angular application import "kc-angular-numeric" module
+
+Usage : 
+<input type=text" numeric-field="">
